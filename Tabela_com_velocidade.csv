@@ -1,0 +1,90 @@
+,Subject Code,Age,Gender,Mass (kg),Height (m),Amputation Side,Reason for Amputation,Age of Amputation,K-Level,Knee Prosthesis,Foot Prosthesis,Socket Suspension,Treadmill Training?,Handrails?,Speed
+0,TF01,26,Male,64.9,1.78,Right,Traumatic,5,K3,Plie FI,AllPro FI,suction,No,No,speed_0p6
+1,TF01,26,Male,64.9,1.78,Right,Traumatic,5,K3,Plie FI,AllPro FI,suction,No,No,speed_0p8
+2,TF01,26,Male,64.9,1.78,Right,Traumatic,5,K3,Plie FI,AllPro FI,suction,No,No,speed_1p0
+3,TF01,26,Male,64.9,1.78,Right,Traumatic,5,K3,Plie FI,AllPro FI,suction,No,No,speed_1p2
+4,TF01,26,Male,64.9,1.78,Right,Traumatic,5,K3,Plie FI,AllPro FI,suction,No,No,speed_1p4
+5,TF02,79,Male,126.1,1.75,Right,Dysvascular,1,K2,Cleg Obk,Triton Obk,lanyard,Yes (2),"Yes, All",speed_0p4
+6,TF02,79,Male,126.1,1.75,Right,Dysvascular,1,K2,Cleg Obk,Triton Obk,lanyard,Yes (2),"Yes, All",speed_0p5
+7,TF02,79,Male,126.1,1.75,Right,Dysvascular,1,K2,Cleg Obk,Triton Obk,lanyard,Yes (2),"Yes, All",speed_0p6
+8,TF02,79,Male,126.1,1.75,Right,Dysvascular,1,K2,Cleg Obk,Triton Obk,lanyard,Yes (2),"Yes, All",speed_0p7
+9,TF05,72,Male,79.4,1.65,Left,Traumatic,4,K2,Cleg Obk,Trition Low Profile Obk,suction,No,No,speed_0p4
+10,TF05,72,Male,79.4,1.65,Left,Traumatic,4,K2,Cleg Obk,Trition Low Profile Obk,suction,No,No,speed_0p5
+11,TF05,72,Male,79.4,1.65,Left,Traumatic,4,K2,Cleg Obk,Trition Low Profile Obk,suction,No,No,speed_0p6
+12,TF05,72,Male,79.4,1.65,Left,Traumatic,4,K2,Cleg Obk,Trition Low Profile Obk,suction,No,No,speed_0p7
+13,TF05,72,Male,79.4,1.65,Left,Traumatic,4,K2,Cleg Obk,Trition Low Profile Obk,suction,No,No,speed_0p8
+14,TF06,60,Male,86.6,1.7,Left,Dysvascular,2,K2,Cleg Obk,Kinterra FI,lanyard,Yes (3),"Yes, All",speed_0p4
+15,TF06,60,Male,86.6,1.7,Left,Dysvascular,2,K2,Cleg Obk,Kinterra FI,lanyard,Yes (3),"Yes, All",speed_0p5
+16,TF06,60,Male,86.6,1.7,Left,Dysvascular,2,K2,Cleg Obk,Kinterra FI,lanyard,Yes (3),"Yes, All",speed_0p6
+17,TF06,60,Male,86.6,1.7,Left,Dysvascular,2,K2,Cleg Obk,Kinterra FI,lanyard,Yes (3),"Yes, All",speed_0p7
+18,TF06,60,Male,86.6,1.7,Left,Dysvascular,2,K2,Cleg Obk,Kinterra FI,lanyard,Yes (3),"Yes, All",speed_0p8
+19,TF07,49,Male,102.1,1.91,Left,Traumatic,10,K3,Cleg Obk,Triton Obk,pin lock,No,No,speed_0p6
+20,TF07,49,Male,102.1,1.91,Left,Traumatic,10,K3,Cleg Obk,Triton Obk,pin lock,No,No,speed_0p8
+21,TF07,49,Male,102.1,1.91,Left,Traumatic,10,K3,Cleg Obk,Triton Obk,pin lock,No,No,speed_1p0
+22,TF07,49,Male,102.1,1.91,Left,Traumatic,10,K3,Cleg Obk,Triton Obk,pin lock,No,No,speed_1p2
+23,TF07,49,Male,102.1,1.91,Left,Traumatic,10,K3,Cleg Obk,Triton Obk,pin lock,No,No,speed_1p4
+24,TF08,42,Male,95.3,1.85,Right,Traumatic,6,K3,Rheo Os,AllPro FI,suction,No,No,speed_0p6
+25,TF08,42,Male,95.3,1.85,Right,Traumatic,6,K3,Rheo Os,AllPro FI,suction,No,No,speed_0p8
+26,TF08,42,Male,95.3,1.85,Right,Traumatic,6,K3,Rheo Os,AllPro FI,suction,No,No,speed_1p0
+27,TF08,42,Male,95.3,1.85,Right,Traumatic,6,K3,Rheo Os,AllPro FI,suction,No,No,speed_1p2
+28,TF08,42,Male,95.3,1.85,Right,Traumatic,6,K3,Rheo Os,AllPro FI,suction,No,No,speed_1p4
+29,TF09,65,Male,69.4,1.7,Left,Traumatic,2,K2,Cleg Obk,Trias Obk,suction,No,No,speed_0p4
+30,TF09,65,Male,69.4,1.7,Left,Traumatic,2,K2,Cleg Obk,Trias Obk,suction,No,No,speed_0p5
+31,TF09,65,Male,69.4,1.7,Left,Traumatic,2,K2,Cleg Obk,Trias Obk,suction,No,No,speed_0p6
+32,TF09,65,Male,69.4,1.7,Left,Traumatic,2,K2,Cleg Obk,Trias Obk,suction,No,No,speed_0p7
+33,TF09,65,Male,69.4,1.7,Left,Traumatic,2,K2,Cleg Obk,Trias Obk,suction,No,No,speed_0p8
+34,TF10,57,Female,58.5,1.65,Left,Traumatic,11,K2,Cleg Obk,Trias Obk,suction,No,"Yes, All",speed_0p4
+35,TF10,57,Female,58.5,1.65,Left,Traumatic,11,K2,Cleg Obk,Trias Obk,suction,No,"Yes, All",speed_0p5
+36,TF10,57,Female,58.5,1.65,Left,Traumatic,11,K2,Cleg Obk,Trias Obk,suction,No,"Yes, All",speed_0p6
+37,TF10,57,Female,58.5,1.65,Left,Traumatic,11,K2,Cleg Obk,Trias Obk,suction,No,"Yes, All",speed_0p7
+38,TF10,57,Female,58.5,1.65,Left,Traumatic,11,K2,Cleg Obk,Trias Obk,suction,No,"Yes, All",speed_0p8
+39,TF11,51,Male,70.3,1.68,Right,Traumatic,33,K3,Cleg Obk,Trias Obk,suction,No,No,speed_0p6
+40,TF11,51,Male,70.3,1.68,Right,Traumatic,33,K3,Cleg Obk,Trias Obk,suction,No,No,speed_0p8
+41,TF11,51,Male,70.3,1.68,Right,Traumatic,33,K3,Cleg Obk,Trias Obk,suction,No,No,speed_1p0
+42,TF11,51,Male,70.3,1.68,Right,Traumatic,33,K3,Cleg Obk,Trias Obk,suction,No,No,speed_1p2
+43,TF11,51,Male,70.3,1.68,Right,Traumatic,33,K3,Cleg Obk,Trias Obk,suction,No,No,speed_1p4
+44,TF12,59,Male,99.8,1.83,Left,Traumatic,16,K2,Cleg Obk,Trias Obk,lanyard,Yes(1),No,speed_0p4
+45,TF12,59,Male,99.8,1.83,Left,Traumatic,16,K2,Cleg Obk,Trias Obk,lanyard,Yes(1),No,speed_0p5
+46,TF12,59,Male,99.8,1.83,Left,Traumatic,16,K2,Cleg Obk,Trias Obk,lanyard,Yes(1),No,speed_0p6
+47,TF12,59,Male,99.8,1.83,Left,Traumatic,16,K2,Cleg Obk,Trias Obk,lanyard,Yes(1),No,speed_0p7
+48,TF12,59,Male,99.8,1.83,Left,Traumatic,16,K2,Cleg Obk,Trias Obk,lanyard,Yes(1),No,speed_0p8
+49,TF13,61,Male,88.5,1.88,Left,Traumatic,3,K3,Rheo Os,Proflex XC Os,vacuum,No,"Yes, LS",speed_0p6
+50,TF13,61,Male,88.5,1.88,Left,Traumatic,3,K3,Rheo Os,Proflex XC Os,vacuum,No,"Yes, LS",speed_0p8
+51,TF13,61,Male,88.5,1.88,Left,Traumatic,3,K3,Rheo Os,Proflex XC Os,vacuum,No,"Yes, LS",speed_1p0
+52,TF13,61,Male,88.5,1.88,Left,Traumatic,3,K3,Rheo Os,Proflex XC Os,vacuum,No,"Yes, LS",speed_1p2
+53,TF13,61,Male,88.5,1.88,Left,Traumatic,3,K3,Rheo Os,Proflex XC Os,vacuum,No,"Yes, LS",speed_1p4
+54,TF14,51,Male,108.9,1.73,Right,Traumatic,3,K2,Genium X3 Obk,Triton Obk,lanyard,No,"Yes, All",speed_0p4
+55,TF14,51,Male,108.9,1.73,Right,Traumatic,3,K2,Genium X3 Obk,Triton Obk,lanyard,No,"Yes, All",speed_0p5
+56,TF14,51,Male,108.9,1.73,Right,Traumatic,3,K2,Genium X3 Obk,Triton Obk,lanyard,No,"Yes, All",speed_0p6
+57,TF14,51,Male,108.9,1.73,Right,Traumatic,3,K2,Genium X3 Obk,Triton Obk,lanyard,No,"Yes, All",speed_0p7
+58,TF14,51,Male,108.9,1.73,Right,Traumatic,3,K2,Genium X3 Obk,Triton Obk,lanyard,No,"Yes, All",speed_0p8
+59,TF15,23,Female,68.0,1.75,Right,Traumatic,5,K3,Plie FI,Proflex XC Os,suction,No,"Yes, LS",speed_0p6
+60,TF15,23,Female,68.0,1.75,Right,Traumatic,5,K3,Plie FI,Proflex XC Os,suction,No,"Yes, LS",speed_0p8
+61,TF15,23,Female,68.0,1.75,Right,Traumatic,5,K3,Plie FI,Proflex XC Os,suction,No,"Yes, LS",speed_1p0
+62,TF15,23,Female,68.0,1.75,Right,Traumatic,5,K3,Plie FI,Proflex XC Os,suction,No,"Yes, LS",speed_1p2
+63,TF15,23,Female,68.0,1.75,Right,Traumatic,5,K3,Plie FI,Proflex XC Os,suction,No,"Yes, LS",speed_1p4
+64,TF16,36,Male,100.2,1.8,Left,Traumatic,8,K3,Cleg Obk,AllPro FI,suction,No,No,speed_0p6
+65,TF16,36,Male,100.2,1.8,Left,Traumatic,8,K3,Cleg Obk,AllPro FI,suction,No,No,speed_0p8
+66,TF16,36,Male,100.2,1.8,Left,Traumatic,8,K3,Cleg Obk,AllPro FI,suction,No,No,speed_1p0
+67,TF16,36,Male,100.2,1.8,Left,Traumatic,8,K3,Cleg Obk,AllPro FI,suction,No,No,speed_1p2
+68,TF16,36,Male,100.2,1.8,Left,Traumatic,8,K3,Cleg Obk,AllPro FI,suction,No,No,speed_1p4
+69,TF17,38,Male,104.3,1.91,Left,Traumatic,33,K3,Plie FI,Soleus ClgPk,suction,No,No,speed_0p6
+70,TF17,38,Male,104.3,1.91,Left,Traumatic,33,K3,Plie FI,Soleus ClgPk,suction,No,No,speed_0p8
+71,TF17,38,Male,104.3,1.91,Left,Traumatic,33,K3,Plie FI,Soleus ClgPk,suction,No,No,speed_1p0
+72,TF17,38,Male,104.3,1.91,Left,Traumatic,33,K3,Plie FI,Soleus ClgPk,suction,No,No,speed_1p2
+73,TF17,38,Male,104.3,1.91,Left,Traumatic,33,K3,Plie FI,Soleus ClgPk,suction,No,No,speed_1p4
+74,TF18,69,Male,129.3,1.73,Right,Traumatic,50,K2,3R46 Obk,Renegade FI,suction,No,Yes,speed_0p4
+75,TF18,69,Male,129.3,1.73,Right,Traumatic,50,K2,3R46 Obk,Renegade FI,suction,No,Yes,speed_0p5
+76,TF18,69,Male,129.3,1.73,Right,Traumatic,50,K2,3R46 Obk,Renegade FI,suction,No,Yes,speed_0p6
+77,TF18,69,Male,129.3,1.73,Right,Traumatic,50,K2,3R46 Obk,Renegade FI,suction,No,Yes,speed_0p7
+78,TF18,69,Male,129.3,1.73,Right,Traumatic,50,K2,3R46 Obk,Renegade FI,suction,No,Yes,speed_0p8
+79,TF19,30,Female,59.0,1.6,Left,Traumatic,10,K3,3R80 Obk,AllPro FI,lanyard,No,No,speed_0p6
+80,TF19,30,Female,59.0,1.6,Left,Traumatic,10,K3,3R80 Obk,AllPro FI,lanyard,No,No,speed_0p8
+81,TF19,30,Female,59.0,1.6,Left,Traumatic,10,K3,3R80 Obk,AllPro FI,lanyard,No,No,speed_1p0
+82,TF19,30,Female,59.0,1.6,Left,Traumatic,10,K3,3R80 Obk,AllPro FI,lanyard,No,No,speed_1p2
+83,TF19,30,Female,59.0,1.6,Left,Traumatic,10,K3,3R80 Obk,AllPro FI,lanyard,No,No,speed_1p4
+84,TF20,59,Male,120.2,1.78,Left,Traumatic,42,K2,Cleg Obk,Action Obk,suction,No,Yes,speed_0p4
+85,TF20,59,Male,120.2,1.78,Left,Traumatic,42,K2,Cleg Obk,Action Obk,suction,No,Yes,speed_0p5
+86,TF20,59,Male,120.2,1.78,Left,Traumatic,42,K2,Cleg Obk,Action Obk,suction,No,Yes,speed_0p6
+87,TF20,59,Male,120.2,1.78,Left,Traumatic,42,K2,Cleg Obk,Action Obk,suction,No,Yes,speed_0p7
+88,TF20,59,Male,120.2,1.78,Left,Traumatic,42,K2,Cleg Obk,Action Obk,suction,No,Yes,speed_0p8
